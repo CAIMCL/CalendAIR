@@ -1,6 +1,5 @@
-# CalenDoo
+# CalenDoo (formerly CalendAIR)
 
-CalenDoo
 CalenDoo is an app that uses the OpenAI API to generate a daily schedule for users, including scheduled breaks and time for completing tasks. The schedule is converted to an ICS file that can be added to the user's calendar.
 
 Features
