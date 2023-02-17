@@ -11,4 +11,4 @@ Send notifications to the user at the start of each task and during scheduled br
 Customize settings for notifications, task times, and break times
 Use the app on a mobile device or web browser
 
-Copyright © 2023 CPR, ClarionQ, under the BSD Clause 3 licence.
+Copyright © 2023 CPR, ClarionQ, under the BSD 3-Clause License.
